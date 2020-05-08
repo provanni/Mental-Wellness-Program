@@ -1,0 +1,29 @@
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+    height: 80%;
+    width: 100%;
+    margin-top: 3%;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #38414e;
+    /* background-color: #242F3E; */
+    /* background-color: #515c6d; */
+}
+
+h1{
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    font-weight: normal;
+    margin-top: 25px;
+    margin-left: 40px;
+    font-size: 50px;
+}
+/* .container{
+    text-align: center;
+    z-index: 1;
+} */
